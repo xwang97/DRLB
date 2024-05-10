@@ -9,9 +9,9 @@ This is the source code of DRLB, a deep learning-based Boolean matrix bias remov
 
 
 ## Dependencies
-torch 1.13
-pandas 1.5
-numpy 1.24
+torch 1.13\\
+pandas 1.5\\
+numpy 1.24\\
 
 ## R dependencies (not required if you only need the debiasing step by DRLB)
 Matrix
